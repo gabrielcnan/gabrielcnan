@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
+<title id="title">NANT — Infrastructure, Security &amp; Automation</title>
+<desc id="desc">Banner de portfólio técnico em grafite, branco e verde-ciano.</desc>
+<rect width="1200" height="330" rx="12" fill="#26282B"/>
+<g fill="none" stroke="#00D9AD" stroke-width="1.5" opacity=".35"><path d="M0 45H130L190 105H300M0 285H130L190 225H300M1200 45H1070L1010 105H900M1200 285H1070L1010 225H900"/><path d="M0 95H75L135 155H225M1200 235H1125L1065 175H975"/><circle cx="300" cy="105" r="5"/><circle cx="300" cy="225" r="5"/><circle cx="900" cy="105" r="5"/><circle cx="900" cy="225" r="5"/></g>
+<g font-family="Arial, Helvetica, sans-serif" text-anchor="middle"><text x="600" y="83" fill="#00D9AD" font-size="18" letter-spacing="7">NAN LABS</text><text x="600" y="182" fill="#F5F5F5" font-size="100" font-weight="700" letter-spacing="18">NANT</text><text x="600" y="232" fill="#F5F5F5" font-size="20" letter-spacing="4">INFRASTRUCTURE · SECURITY · AUTOMATION</text><text x="600" y="282" fill="#C1C5C8" font-size="15" letter-spacing="3">LEARN · INVESTIGATE · VALIDATE</text></g>
+<path d="M550 252H650" stroke="#00D9AD" stroke-width="3"/>
+</svg>

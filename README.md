@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/nant-banner.svg" alt="NANT | Infrastructure, Security & Automation" width="100%" />
+  <img src="assets/nant-signal.png" alt="NAN | Gabriel Nantes | IT Infrastructure, Networking, Automation & Cybersecurity" width="100%" />
 </div>
 
 # Gabriel Nantes
